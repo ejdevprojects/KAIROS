@@ -1,0 +1,6 @@
+{
+  "name": "KAIROS Study Planner",
+  "description": "High-contrast monochrome study planner with intelligent study suggestions, focus timers, scheduled alarms, and smart reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
